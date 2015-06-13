@@ -1,0 +1,19 @@
+{
+  "name": "kaltura-nodejs-api",
+  "version": "10.13.0",
+  "description": "Kaltura Node JS Client API",
+  "main": "KalturaClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qchen-es3/KalturaGeneratedAPIClientsNodeJS.git"
+  },
+  "author": "ES3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qchen-es3/KalturaGeneratedAPIClientsNodeJS/issues"
+  },
+  "homepage": "https://github.com/qchen-es3/KalturaGeneratedAPIClientsNodeJS#readme"
+}
