@@ -1,7 +1,7 @@
 {
-  "name": "kaltura-nodejs-api",
+  "name": "kaltura-api",
   "version": "10.13.0",
-  "description": "Kaltura Node JS Client API",
+  "description": "Kaltura Node.js Client API",
   "main": "KalturaClient.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
